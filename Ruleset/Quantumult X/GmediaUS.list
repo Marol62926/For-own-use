@@ -1,0 +1,67 @@
+# > Disney Plus
+USER-AGENT,Disney*,GMedia
+HOST,cdn.registerdisney.go.com,GMedia
+HOST,cdn.cdn.unid.go.com,GMedia
+HOST-SUFFIX,bamgrid.com,GMedia
+HOST-SUFFIX,braze.com,GMedia
+HOST-SUFFIX,conviva.com,GMedia
+HOST-SUFFIX,disney.demdex.net,GMedia
+HOST-SUFFIX,disneyplus.com,GMedia
+HOST-SUFFIX,disney-plus.net,GMedia
+HOST-SUFFIX,dssott.com,GMedia
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,GMedia
+
+# > Fox Now
+USER-AGENT,FOX%20NOW*,GMedia
+HOST-SUFFIX,fox.com,GMedia
+HOST-SUFFIX,foxdcg.com,GMedia
+HOST-SUFFIX,uplynk.com,GMedia
+
+# > HBO NOW & HBO GO
+USER-AGENT,HBO%20NOW*,GMedia
+HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GMedia
+HOST-SUFFIX,hbo.com,GMedia
+HOST-SUFFIX,hboasia.com,GMedia
+HOST-SUFFIX,hbogo.com,GMedia
+HOST-SUFFIX,hbogoasia.com,GMedia
+HOST-SUFFIX,hbogoasia.hk,GMedia
+HOST-SUFFIX,hbonow.com,GMedia
+HOST-SUFFIX,hbomax.com,GMedia
+
+# > Hulu(フールー)
+HOST-SUFFIX,happyon.jp,GMedia
+HOST-SUFFIX,hulu.jp,GMedia
+
+# > Hulu
+HOST-SUFFIX,hulu.com,GMedia
+HOST-SUFFIX,huluim.com,GMedia
+HOST-SUFFIX,hulustream.com,GMedia
+
+# > Pandora
+HOST-SUFFIX,pandora.com,GMedia
+
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,GMedia
+USER-AGENT,Prime%20Video*,GMedia
+HOST-SUFFIX,aiv-cdn.net,GMedia
+HOST-SUFFIX,amazonaws.co.uk,GMedia
+HOST-SUFFIX,amazonaws.com,GMedia
+HOST-SUFFIX,amazonvideo.com,GMedia
+HOST-SUFFIX,llnwd.net,GMedia
+
+# > Deezer
+HOST-SUFFIX,deezer.com,GMedia
+
+# > Napster
+HOST-SUFFIX,napster.com,GMedia
+
+
+
+
+
+
+
+
+
+
+
